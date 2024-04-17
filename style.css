@@ -1,0 +1,50 @@
+.navbar-nav{
+    margin-left: 800px;
+}
+
+.home{
+    padding-bottom: 100px;
+}
+.navbar-brand{
+    margin-left: 100px;
+}
+.hp{
+    margin-top: 100px;
+}
+.text-center{
+    margin-top: 30px;
+}
+
+#about{
+    margin: 100px 200px 100px;
+}
+#about .yth{
+    margin-top: 100px;
+}
+
+#about .yth .text-center{
+    /* margin-top: 100px; */
+}
+#about .yth .para{
+    margin: 0 100px 0;
+}
+
+#end1 .row{
+    margin: 0 150px 0;
+}
+
+#end1 .row .fw-bolder{
+    margin-top: 100px;
+}
+
+#end2{
+    margin-top: 100px;
+}
+
+#end2 .row{
+    margin: 0 150px 0;
+}
+
+#end2 .row .fw-bolder{
+    margin-top: 100px;
+}
